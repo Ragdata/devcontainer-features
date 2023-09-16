@@ -27,7 +27,7 @@
 
 #### _Elapsed Project Time_
 
-[![wakatime](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/f874eedf-d099-4fc2-8586-6706c3b21efb.svg?style=for-the-badge)](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/f874eedf-d099-4fc2-8586-6706c3b21efb)
+[![wakatime](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/2f80aa7d-4564-4f1c-bb0a-47dc8490071b.svg?style=for-the-badge)](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/2f80aa7d-4564-4f1c-bb0a-47dc8490071b)
 
 </div>
 
